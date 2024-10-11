@@ -1,0 +1,36 @@
+﻿[
+    {
+        "Id": 1,
+        "UserId": 101,
+        "Date": "2024-10-01T00:00:00",
+        "Foods": [
+            {
+                "FoodId": 1,
+                "FoodName": "Apple",
+                "Calories": 95
+            },
+            {
+                "FoodId": 2,
+                "FoodName": "Banana",
+                "Calories": 105
+            }
+        ]
+    },
+    {
+        "Id": 2,
+        "UserId": 102,
+        "Date": "2024-10-02T00:00:00",
+        "Foods": [
+            {
+                "FoodId": 3,
+                "FoodName": "Chicken Breast",
+                "Calories": 165
+            },
+            {
+                "FoodId": 4,
+                "FoodName": "Broccoli",
+                "Calories": 55
+            }
+        ]
+    }
+]
